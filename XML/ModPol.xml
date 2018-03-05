@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Traits>
+		<Update>
+			<Where Type="TRAIT_SOLIDARITY"/>
+			<Set>
+				<ExtraSpies>1</ExtraSpies>
+			</Set>
+		</Update>
+	</Traits>
+</GameData>

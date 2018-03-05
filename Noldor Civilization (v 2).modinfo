@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d94195c9-78c8-4f84-96f7-7fbd99b97df1" version="2">
+  <Properties>
+    <Name>Noldor Civilization</Name>
+    <Teaser>Noldor Civilization</Teaser>
+    <Description>This mod adds Noldor civilization with leading Fingolfin, High King of the Noldor. The trait is: +25% against stronger civilization and one free policy every era. The Unique Building is Nargothrond that replaces Walls giving more defense and +1 culture from forest tiles. The Unique Unit is Noldor Archer that reaplaces composite bowman. In addition, as Poland has a very similar trait and remembering that the first to decipher Enigma were the Poles, in addition to the normal bonuses, Poland receives an extra spy.</Description>
+    <Authors>Elia</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B637A911793D1BCFC519CEA94E9B6359" import="1">Art/FINGOLFIN128.dds</File>
+    <File md5="90E0F4881429734D82EE2FB3B710151D" import="1">Art/FINGOLFIN256.dds</File>
+    <File md5="64DE141F864077F5834E524ADC7CD1D6" import="1">Art/FINGOLFIN32.dds</File>
+    <File md5="57D6EA5672AF8A55E65252652FC6946A" import="1">Art/FINGOLFIN45.dds</File>
+    <File md5="E53900E7EF7768062E4471839244642C" import="1">Art/FINGOLFIN64.dds</File>
+    <File md5="88964044BF8F22E5E1587059BE573B1D" import="1">Art/FINGOLFIN80.dds</File>
+    <File md5="BB821201C4B629C384A6C59666B4FDEB" import="1">Art/FINGOLFINdiplo.dds</File>
+    <File md5="80BBAEF9B6B1407026F759BBD38AE244" import="1">Art/MAPNOLDOR.dds</File>
+    <File md5="2D012A6E5E27CA60A0B3EAD7044A5C86" import="1">Art/NARGOTHROND128.dds</File>
+    <File md5="5116F753E76F3FED1D6E19A1A83EEAD5" import="1">Art/NARGOTHROND256.dds</File>
+    <File md5="F6A4D4A2441BAAADCC09171FA4AE48B3" import="1">Art/NARGOTHROND45.dds</File>
+    <File md5="0F770877C381099FDF786DAFF63F9CAE" import="1">Art/NARGOTHROND64.dds</File>
+    <File md5="C725B73600A01A73386099552E0B3023" import="1">Art/NARGOTHROND80.dds</File>
+    <File md5="54BD14A5BF141A3124C2E328E5FF8CDC" import="1">Art/NOLDOR128.dds</File>
+    <File md5="C4D7253CB147EACBFFE9D9EE6E27110D" import="1">Art/NOLDOR256.dds</File>
+    <File md5="50DC0DD728BF88E3649DFB9EE7B11FD1" import="1">Art/NOLDOR32.dds</File>
+    <File md5="1DA384A6F4EF04EA103DCE3707BFC379" import="1">Art/NOLDOR45.dds</File>
+    <File md5="51CFA7BE4916133553E1AE46C3CAB06F" import="1">Art/NOLDOR64.dds</File>
+    <File md5="D6FCF34CC77CCC6C3EEDF0CA94CD2843" import="1">Art/NOLDOR80.dds</File>
+    <File md5="555527CD4D5E0CE6FE193000AACC1B11" import="1">Art/NOLDORARCHER128.dds</File>
+    <File md5="8B168A385C170CF322670DF16652C692" import="1">Art/NOLDORARCHER256.dds</File>
+    <File md5="2DB9576B43A0D6A812CCC913A7DA5DC6" import="1">Art/NOLDORARCHER45.dds</File>
+    <File md5="CBBFE153C12C71C4F920C596103FE907" import="1">Art/NOLDORARCHER64.dds</File>
+    <File md5="041E4B0A7AFD2B97FE2BC7E22160E7FA" import="1">Art/NOLDORARCHER80.dds</File>
+    <File md5="719CBC42FC30282435301257C8D10C4C" import="1">Art/NOLDORDOM.dds</File>
+    <File md5="E8039BAAD2C52FE8E4D4AE643CA5D2F3" import="1">XML/FINGOLFINScene.xml</File>
+    <File md5="DCD0555BA66ED0B02A8FD28423C3A8CB" import="0">XML/GameText.xml</File>
+    <File md5="52C1E5CD64D6F1C148304C0DFAC65A79" import="0">XML/ModPol.xml</File>
+    <File md5="7C010E938F6295E73F08E26DF281698E" import="0">XML/Noldor.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Noldor.xml</UpdateDatabase>
+      <UpdateDatabase>XML/ModPol.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

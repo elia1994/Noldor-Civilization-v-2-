@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_FINGOLFIN">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_FINGOLFIN_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_FINGOLFIN">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_FINGOLFIN_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_NOLDORCURE">
+			<Text>Noldor strength</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_NOLDORCURE_HELP">
+			<Text>+50 HP when the unit destroys enemy unit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARGOTHROND">
+			<Text>Nargothrond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_NARGOTHROND_HELP">
+			<Text>12 city defense[NEWLINE]50 extra city hitpoints[NEWLINE]+1 [ICON_CULTURE] from forest tiles.[NEWLINE]Walls around the city don't appear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_NARGOTHROND_TEXT">
+			<Text>In J. R. R. Tolkien's legendarium, Nargothrond was the elvish stronghold built by Finrod Felagund during the First Age of Middle Earth. The Realm of Nargothrond consisted of the underground city delved into the banks of the river Narog in Beleriand, and the lands to the north, the Talath Dirnen or Guarded Plain.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NOLDORARCHER">
+			<Text>Noldor Archer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_NOLDORARCHER_STRATEGY">
+			<Text>Noldor Archer is a unit exclusive of Noldor civilization.[NEWLINE]It is more powerfull than composite bowman that replaces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NOLDORARCHER_TEXT">
+			<Text>In the works of J. R. R. Tolkien, the Noldor are High Elves of the Second Clan who migrated to Valinor and lived in Eldamar. The Noldor are called Golodhrim or Gódhellim in Sindarin, and Goldui by Teleri of Tol Eressëa. The singular form of the Quenya noun is Noldo and the adjective is Noldorin. They were the Second Clan of the Elves in both order and size, the other clans being the Vanyar and the Teleri.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HEROISMWISDOM">
+			<Text>+25% against stronger civilizations.[NEWLINE]One free policy every era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_HEROISMWISDOM_SHORT">
+			<Text>Heroism and Wisdom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_1">
+			<Text>Mithrim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_2">
+			<Text>Nargothrond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_3">
+			<Text>Menegroth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_4">
+			<Text>Gondolin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_5">
+			<Text>Eithel Sirion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_6">
+			<Text>Eglarest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_7">
+			<Text>Vinyamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_8">
+			<Text>Brithombar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_9">
+			<Text>Himring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_10">
+			<Text>Lindon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_11">
+			<Text>Dor Daedeloth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_12">
+			<Text>Androth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_13">
+			<Text>Barad Eithel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_14">
+			<Text>Barad Nimras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_15">
+			<Text>Obel Halad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_16">
+			<Text>Balar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_17">
+			<Text>Amon Darthir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_18">
+			<Text>Amon Ereb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_19">
+			<Text>Amon Ethir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITYNOLDOR_NAME_20">
+			<Text>Amon Rûdh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_0">
+			<Text>Turgon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_1">
+			<Text>Fingon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_2">
+			<Text>Finwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_3">
+			<Text>Feanor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_4">
+			<Text>Finarfin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_5">
+			<Text>Galadriel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_6">
+			<Text>Finrod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_7">
+			<Text>Celebrimbor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_8">
+			<Text>Earendil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOLDOR_9">
+			<Text>Elrond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NOLDOR_ADJECTIVE">
+			<Text>Noldorin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NOLDOR_DESC">
+			<Text>Noldor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NOLDOR_SHORT_DESC">
+			<Text>Noldor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_NOLDOR">
+			<Text>The Silmarillion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_NOLDOR_DOM">
+			<Text>Fingolfin, son of Finwe, High King of the Noldor. [NEWLINE]Fingolfin, second eldest son of Finwë, full brother of Finarfin, and half-brother of Fëanor, who was the eldest of Finwë's sons. You founded the House of Fingolfin which ruled the Noldor in Middle-earth. It was said to be the strongest, most steadfast, and most valiant of Finwë's sons.[NEWLINE]When you became High-King of the Noldor, maintained the Siege of Angband for nearly 400 years during the war against Morgoth. But the Siege was ended by Morgoth's sudden assaults in the Dagor Bragollach, the Battle of Sudden Flame, and many peoples of Beleriand fled. When you learned of this, and received false report that his allies had been routed on all fronts, you became filled with wrath and despair. You immediately took his horse Rochallor and sword Ringil, and rode alone to Angband. All enemies fled from you, fearing your anger, and mistaking you in your fury for Orome, the Vala patron of hunters. You smote the gates of Angband and challenged Morgoth to single combat. Though Morgoth feared you, he had to accept the challenge or face shame in the eyes of his servants. Seven times you wounded Morgoth and seven times Morgoth cried in pain but he could not be slain for he was one of the Valar. Whenever Morgoth attacked, you would evade, avoiding Morgoth's weapon Grond, the hammer of the underworld. Then Morgoth pinned you with his foot, and killed you, but not before you, with your last act of defiance, hewed at Morgoth's foot.[NEWLINE][NEWLINE]Will you return victorious like when you rode alone ti Angband? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FINGOLFIN_HEADING_1">
+			<Text>Myth and Legend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FINGOLFIN_TEXT_1">
+			<Text>Fingolfin was a High King of the Noldor in Beleriand, second eldest son of Finwë, full brother of Finarfin, and half-brother of Fëanor, who was the eldest of Finwë's sons. He founded the House of Fingolfin which ruled the Noldor in Middle-earth. His wife was Anairë and his children were Fingon, Turgon, Aredhel and Argon. Fingolfin was said to be the strongest, most steadfast, and most valiant of Finwë's sons. His name in Quenya was Nolofinwë, or "wise Finwë". This was his father-name; his mother-name was Aracáno, or "High Chieftain", the same name as his youngest son Argon. When Fingolfin became High-King of the Noldor, maintained the Siege of Angband for nearly 400 years during the war against Morgoth. But the Siege was ended by Morgoth's sudden assaults in the Dagor Bragollach, the Battle of Sudden Flame, and many peoples of Beleriand fled. When Fingolfin learned of this, and received false report that his allies had been routed on all fronts, he became filled with wrath and despair. He immediately took his horse Rochallor and sword Ringil, and rode alone to Angband. All enemies fled from him, fearing his anger, and mistaking him in his fury for Orome, the Vala patron of hunters. He smote the gates of Angband and challenged Morgoth to single combat. Though Morgoth feared Fingolfin, he had to accept the challenge—or face shame in the eyes of his servants. Seven times Fingolfin wounded Morgoth and seven times Morgoth cried in pain, and seven times the host of Morgoth wailed in anguish, but he could not be slain for he was one of the Valar. Whenever Morgoth attacked, Fingolfin would evade, avoiding Morgoth's weapon Grond, the hammer of the underworld. Then Morgoth pinned Fingolfin with his foot, and killed him, but not before he, with his last act of defiance, hewed at Morgoth's foot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FINGOLFIN_LIVED">
+			<Text>AA 1190 - PE 455</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FINGOLFIN_NAME">
+			<Text>Fingolfin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_FINGOLFIN_SUBTITLE">
+			<Text>High King of the Noldor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FINGOLFIN">
+			<Text>Fingolfin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FINGOLFIN_FIRSTGREETING_%">
+			<Text>I am Fingolfin, son of Finwe, and I am the High King of the Noldor.[NEWLINE]Glad to meet you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_FINGOLFIN_DEFEATED_%">
+			<Text>You won. Finally the Noldor will rest in peace.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
